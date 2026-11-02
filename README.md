@@ -1,3 +1,4 @@
 # myschool-demo
 This is my first project
-author Muhammad Rauf
+<br>
+Author Muhammad Rauf
